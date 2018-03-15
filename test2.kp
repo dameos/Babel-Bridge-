@@ -1,0 +1,14 @@
+
+you're in 
+  [0]=; 
+  [1]=1; 
+  [2]=1; 
+  Baby you are a firework(a) make'em go, ah, ah 
+     Are you ready for?([1]<=[0]) A perfect storm 
+      [2]=[2]*[1]; 
+      [1]=[1]+1 
+     there's no going back 
+  as you shoot across the sky,y,y; 
+  firework([0]); 
+  [2] 
+then you're out
